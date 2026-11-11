@@ -6,11 +6,11 @@
 Institutional Model Context Protocol (MCP) server for **9-digit CUSIP corporate & Treasury bond valuation**, **FINRA TRACE secondary debt spreads**, **multi-bond portfolio VaR/CVaR stress testing**, **OFAC SDN & 31 CFR Part 501 safe-harbor closing certificates**, and **SEC XBRL forensic accounting & Form TCR whistleblower workpapers**.
 
 - **Interactive Conversion Hub & 1-Click Cursor / VS Code Install:** <https://ariadnenexus.com/docs/mcp>
-- **Flagship Remote Streamable HTTP (`11` tools):** `https://ariadnenexus.com/mcp`
+- **Flagship Remote Streamable HTTP (`11` tools):** `https://ariadnenexus.com/mcp` — [![Flagship Glama Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
 - **Persona-Focused Sub-Servers (`6` tools each):**
-  - Fixed-Income & TRACE (`#1` on `cusip` globally): `https://ariadnenexus.com/mcp/cusip-bond-trace-finance`
-  - OFAC Sanctions & Escrow (`#1` on `ofac` & `escrow` globally): `https://ariadnenexus.com/mcp/ofac-sanctions-escrow`
-  - SEC XBRL Forensics & Whistleblower (`#1` on `whistleblower` globally): `https://ariadnenexus.com/mcp/sec-forensics-whistleblower`
+  - **Fixed-Income & TRACE** (`#1` on `cusip` globally): `https://ariadnenexus.com/mcp/cusip-bond-trace-finance` — [![CUSIP & Bond Finance Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/cusip-bond-trace-finance/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/cusip-bond-trace-finance)
+  - **OFAC Sanctions & Escrow** (`#1` on `ofac` & `escrow` globally): `https://ariadnenexus.com/mcp/ofac-sanctions-escrow` — [![OFAC & Escrow Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ofac-sanctions-escrow/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ofac-sanctions-escrow)
+  - **SEC XBRL Forensics & Whistleblower** (`#1` on `whistleblower` globally): `https://ariadnenexus.com/mcp/sec-forensics-whistleblower` — [![SEC Forensics Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/sec-forensics-whistleblower/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/sec-forensics-whistleblower)
 
 ---
 
