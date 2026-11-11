@@ -1,5 +1,6 @@
 # Ariadne Nexus — Quantitative Fixed-Income, OFAC Sanctions & SEC Forensic MCP Server
 
+[![Ariadne Nexus MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/dotlink-ops/ariadne-nexus-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dotlink-ops/ariadne-nexus-mcp)
 [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
 [![Official MCP Registry](https://img.shields.io/badge/MCP_Registry-com.ariadnenexus-10b981)](https://registry.modelcontextprotocol.io/?q=ariadnenexus)
 
