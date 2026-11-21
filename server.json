@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.ariadnenexus/ariadne-nexus-quantitative-engine",
   "title": "Ariadne Nexus — Fixed-Income, OFAC & SEC Forensic MCP",
-  "description": "9-digit CUSIP bond valuation, FINRA TRACE spreads, portfolio VaR, OFAC SDN & SEC XBRL forensics.",
-  "version": "1.3.2",
+  "description": "9-digit CUSIP valuation, FINRA TRACE spreads, OFAC SDN safe-harbor & SEC XBRL forensics.",
+  "version": "1.3.3",
   "websiteUrl": "https://ariadnenexus.com/docs/mcp",
   "repository": {
     "url": "https://github.com/dotlink-ops/ariadne-nexus-mcp",
