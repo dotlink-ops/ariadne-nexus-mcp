@@ -1,7 +1,8 @@
-# Ariadne Nexus — Sovereign Quant, OFAC Safe-Harbor, SEC Forensics & Zero-PII Provenance MCP Suite
+# Ariadne Nexus: Sovereign Quant, OFAC Safe-Harbor, SEC Forensics & Zero-PII Provenance MCP Suite
 
-[![Ariadne Nexus MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/dotlink-ops/ariadne-nexus-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dotlink-ops/ariadne-nexus-mcp)
+[![Ariadne Nexus MCP server: quality and maintenance score on Glama](https://glama.ai/mcp/servers/dotlink-ops/ariadne-nexus-mcp/badges/score.svg)](https://glama.ai/mcp/servers/dotlink-ops/ariadne-nexus-mcp)
 [![Ariadne Nexus MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
+[![Ariadne Nexus Provenance & Underwriting MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/mcp-server)
 [![Official MCP Registry](https://img.shields.io/badge/MCP_Registry-com.ariadnenexus-10b981)](https://registry.modelcontextprotocol.io/?q=ariadnenexus)
 [![Stripe MPP & x402 v2](https://img.shields.io/badge/Stripe_MPP_%2B_x402_v2-17%2F17_Passed-635bff)](https://ariadnenexus.com/openapi.json)
 [![PyPI ariadne-verify](https://img.shields.io/badge/PyPI-ariadne--verify%200.1.8-3776ab)](https://pypi.org/project/ariadne-verify/)
@@ -17,7 +18,7 @@ Institutional Model Context Protocol (MCP) server suite for **9-digit CUSIP bond
 | **Install Flagship Quant & Compliance MCP in Cursor** | [![Install in Cursor](https://img.shields.io/badge/Cursor-1--Click%20Install-000000?logo=cursor)](https://cursor.com/en/install-mcp?name=ariadne-nexus&config=eyJ1cmwiOiJodHRwczovL2FyaWFkbmVuZXh1cy5jb20vbWNwIn0%3D) |
 | **Install Flagship Quant & Compliance MCP in VS Code** | [![Install in VS Code](https://img.shields.io/badge/VS%20Code-1--Click%20Install-007ACC?logo=visualstudiocode)](https://vscode.dev/redirect/mcp/install?name=ariadne-nexus&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fariadnenexus.com%2Fmcp%22%7D) |
 | **Install Zero-PII Provenance & Halo2 MCP (`v0.1.8`) in Cursor** | [![Install Provenance MCP in Cursor](https://img.shields.io/badge/Cursor-Install%20Provenance%20v0.1.8-10b981)](https://cursor.com/en/install-mcp?name=ariadne-provenance&config=eyJ1cmwiOiJodHRwczovL21jcC5hcmlhZG5lbmV4dXMuY29tL21jcCJ9) |
-| **Get Instant API Key — `$10/mo` Builder Pass (`250` calls/mo)** | [**`https://ariadnenexus.com/billing/checkout?plan=eval_pass`**](https://ariadnenexus.com/billing/checkout?plan=eval_pass) |
+| **Get Instant API Key: `$10/mo` Builder Pass (`250` calls/mo)** | [**`https://ariadnenexus.com/billing/checkout?plan=eval_pass`**](https://ariadnenexus.com/billing/checkout?plan=eval_pass) |
 | **Activate `$2.50/proof` Metered PAYG (Stripe Billing)** | [**`https://ariadnenexus.com/billing/checkout?plan=metered_payg`**](https://ariadnenexus.com/billing/checkout?plan=metered_payg) |
 | **Interactive MCP Hub, Schemas & Key Redemption** | [**`https://ariadnenexus.com/docs/mcp`**](https://ariadnenexus.com/docs/mcp) |
 
@@ -25,12 +26,12 @@ Institutional Model Context Protocol (MCP) server suite for **9-digit CUSIP bond
 
 ## Live Remote Streamable HTTP Endpoints
 
-- **Flagship Quantitative, Compliance & Forensics (`12` tools):** `https://ariadnenexus.com/mcp` — [![Flagship Glama Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
-- **Zero-PII Fine-Art Provenance, Halo2 IPA & Optical Forensics (`v0.1.8` • `7` tools):** `https://mcp.ariadnenexus.com/mcp` (`com.ariadnenexus/mcp-server@0.1.8`)
+- **Flagship Quantitative, Compliance & Forensics (`12` tools):** `https://ariadnenexus.com/mcp`: [![Flagship Glama Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ariadne-nexus-quantitative-engine)
+- **Zero-PII Fine-Art Provenance, Halo2 IPA & Optical Forensics (`v0.1.8` • `7` tools):** `https://mcp.ariadnenexus.com/mcp` (`com.ariadnenexus/mcp-server@0.1.8`) [![Ariadne Nexus Provenance & Underwriting MCP connector](https://glama.ai/mcp/connectors/com.ariadnenexus/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/mcp-server)
 - **Persona-Focused Sub-Servers (`6` tools each):**
-  - **Fixed-Income & FINRA TRACE** (`#1` on `cusip`): `https://ariadnenexus.com/mcp/cusip-bond-trace-finance` — [![CUSIP & Bond Finance Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/cusip-bond-trace-finance/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/cusip-bond-trace-finance)
-  - **OFAC Sanctions & Statutory Escrow** (`#1` on `ofac` & `escrow`): `https://ariadnenexus.com/mcp/ofac-sanctions-escrow` — [![OFAC & Escrow Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ofac-sanctions-escrow/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ofac-sanctions-escrow)
-  - **SEC XBRL Forensics & Whistleblower** (`#1` on `whistleblower`): `https://ariadnenexus.com/mcp/sec-forensics-whistleblower` — [![SEC Forensics Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/sec-forensics-whistleblower/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/sec-forensics-whistleblower)
+  - **Fixed-Income & FINRA TRACE** (`#1` on `cusip`): `https://ariadnenexus.com/mcp/cusip-bond-trace-finance`: [![CUSIP & Bond Finance Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/cusip-bond-trace-finance/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/cusip-bond-trace-finance)
+  - **OFAC Sanctions & Statutory Escrow** (`#1` on `ofac` & `escrow`): `https://ariadnenexus.com/mcp/ofac-sanctions-escrow`: [![OFAC & Escrow Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/ofac-sanctions-escrow/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/ofac-sanctions-escrow)
+  - **SEC XBRL Forensics & Whistleblower** (`#1` on `whistleblower`): `https://ariadnenexus.com/mcp/sec-forensics-whistleblower`: [![SEC Forensics Connector](https://glama.ai/mcp/connectors/com.ariadnenexus/sec-forensics-whistleblower/badges/score.svg)](https://glama.ai/mcp/connectors/com.ariadnenexus/sec-forensics-whistleblower)
 
 ---
 
@@ -104,7 +105,7 @@ npx mppx@latest validate https://ariadnenexus.com --endpoint POST:/api/v1/mpp/va
 
 ---
 
-## Flagship Server Tools — `https://ariadnenexus.com/mcp` (`12` Canonical Tools)
+## Flagship Server Tools: `https://ariadnenexus.com/mcp` (`12` Canonical Tools)
 
 | Tool | Cost | Summary |
 | :--- | :--- | :--- |
@@ -125,7 +126,7 @@ npx mppx@latest validate https://ariadnenexus.com --endpoint POST:/api/v1/mpp/va
 
 ---
 
-## Zero-PII Provenance & Halo2 IPA Server — `https://mcp.ariadnenexus.com/mcp` (`v0.1.8`)
+## Zero-PII Provenance & Halo2 IPA Server: `https://mcp.ariadnenexus.com/mcp` (`v0.1.8`)
 
 Built for **fine-art specie insurers, art-secured private credit desks, and conservation freeports** under [`ANX-RFC-001`](https://ariadnenexus.com/rfc/zk-prov-v1). Consignor PII and raw imagery never leave the vault perimeter; only cryptographic commitments cross the wire.
 
